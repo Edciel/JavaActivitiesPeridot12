@@ -8,6 +8,21 @@ public class HelloWorld {
         System.out.println("Im a Edciel D. Geolina!");
         System.out.println("Im a student of Grade 12-Peridot!");
         System.out.println("Im from Caloocan City!");
+        System.out.println("Im 17 years old!");
+        System.out.println(136635140131l);
+        System.out.println("Addition");//this is Addition
+        System.out.print("2 + 3 = ");
+        System.out.println(5 + 3);
+        System.out.println("Subtraction");//this is Subtraction
+        System.out.print("10 - 4 = ");
+        System.out.println(10 - 4);
+        System.out.println("Multiplication");//this is Multiplication
+        System.out.print("6 * 7 = ");
+        System.out.println(6 * 7);
+        System.out.println("Division");//this is Division
+        System.out.print("20 / 5 = ");
+        System.out.println(20 / 5);
+
     }
 }
                 
