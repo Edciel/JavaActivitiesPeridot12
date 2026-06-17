@@ -22,7 +22,11 @@ public class HelloWorld {
         System.out.println("Division");//this is Division
         System.out.print("20 / 5 = ");
         System.out.println(20 / 5);
-
+    /* This is a multi-line comment 
+      It can span multiple lines
+     within this comment, you can write multiple lines
+     of text without having to use // for each line
+    */
     }
 }
                 
