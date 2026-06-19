@@ -19,5 +19,6 @@ public class variableAcitivity {
          System.out.println("Animal Section: " + animalsection);
          boolean isDomestic = true;
           System.out.println("Is Domestic: " + isDomestic);
+          
     }
 }
