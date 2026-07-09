@@ -8,10 +8,6 @@ public class guest {
         System.out.println(++x - y);   
         System.out.println(x * y++);   
         System.out.println(x-- / y);   
-        System.out.println(++x + y--); 
-        System.out.println(x++ * --y); 
-        System.out.println(--x + ++y);
-        System.out.println(y++ - x--); 
-        System.out.println(++x * ++y); 
+     
     }
 }
